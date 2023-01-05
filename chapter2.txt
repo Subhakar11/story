@@ -1,0 +1,1 @@
+FTP is a standard protocol for the transfer of files between computer systems.
